@@ -45,7 +45,7 @@ header img {
     flex-direction: column;
 }
   
-.card h3 {
+.card header {
     background-color: #288088;
     border: solid 2px #45ADAD;
     padding-top: 20px;
